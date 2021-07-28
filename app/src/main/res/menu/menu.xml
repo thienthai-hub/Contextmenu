@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:title="Màu vàng"
-        android:id="@+id/vang"></item>
-    <item android:title="Màu xanh"
-        android:id="@+id/xanh"></item>
-    <item android:title="Màu đen"
-        android:id="@+id/đen"></item>
-    <item android:title="Màu đỏ"
-        android:id="@+id/đo"></item>
-    <item android:title="Màu tím"
-    android:id="@+id/tim"></item>
-</menu>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:title="Màu vàng"
+            android:id="@+id/vang"></item>
+        <item android:title="Màu xanh"
+            android:id="@+id/xanh"></item>
+        <item android:title="Màu đen"
+            android:id="@+id/đen"></item>
+        <item android:title="Màu đỏ"
+            android:id="@+id/đo"></item>
+        <item android:title="Màu tím"
+        android:id="@+id/tim"></item>
+    </menu>
